@@ -1,0 +1,11 @@
+[
+{
+  "type" : "record",
+  "namespace" : "com.example.avro",
+  "name" : "Data",
+  "description" : "Sample Data",
+  "fields" : [
+    { "name" : "num", "type" : ["null", "int"], "default" : null }
+  ]
+}
+]
